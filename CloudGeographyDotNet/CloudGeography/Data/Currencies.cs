@@ -25,7 +25,8 @@ public partial class CloudGeographyClient
                 Symbol = "L",
                 NativeName = "Leku Shqiptar",
                 NativeSymbol = "L",
-                PluralShortName = "Lekë"
+                PluralShortName = "Lekë",
+
             },
             new()
             {
@@ -115,7 +116,8 @@ public partial class CloudGeographyClient
                 Symbol = "BD",
                 NativeName = "دينار بحريني",
                 NativeSymbol = ".د.ب",
-                PluralShortName = "Bahraini dinar"
+                PluralShortName = "Bahraini dinar",
+                Decimal=3
             },
             new()
             {
@@ -265,7 +267,8 @@ public partial class CloudGeographyClient
                 Symbol = "FBu",
                 NativeName = "franc burundais",
                 NativeSymbol = "FBu",
-                PluralShortName = "Burundian franc"
+                PluralShortName = "Burundian franc",
+                Decimal=0
             },
             new()
             {
@@ -295,7 +298,7 @@ public partial class CloudGeographyClient
                 Symbol = "Esc",
                 NativeName = "eskudu kabu-verdianu",
                 NativeSymbol = "Esc",
-                PluralShortName = "Cape Verdean escudo"
+                PluralShortName = "Cape Verdean escudo",
             },
             new()
             {
@@ -315,7 +318,8 @@ public partial class CloudGeographyClient
                 Symbol = "FCFA",
                 NativeName = "Central African CFA franc",
                 NativeSymbol = "Fr",
-                PluralShortName = "Central African CFA franc"
+                PluralShortName = "Central African CFA franc",
+                Decimal=0
             },
             new()
             {
@@ -325,7 +329,8 @@ public partial class CloudGeographyClient
                 Symbol = "CFP",
                 NativeName = "franc pacifique (French)",
                 NativeSymbol = "Fr",
-                PluralShortName = "CFP franc"
+                PluralShortName = "CFP franc",
+                Decimal=0
             },
             new()
             {
@@ -365,7 +370,8 @@ public partial class CloudGeographyClient
                 Symbol = "CF",
                 NativeName = "Comorian franc",
                 NativeSymbol = "Fr",
-                PluralShortName = "Comorian francs"
+                PluralShortName = "Comorian francs",
+                Decimal=0
             },
             new()
             {
@@ -455,7 +461,8 @@ public partial class CloudGeographyClient
                 Symbol = "Fdj",
                 NativeName = "franc djibouti",
                 NativeSymbol = "Fr",
-                PluralShortName = "Djiboutian francs"
+                PluralShortName = "Djiboutian francs",
+                Decimal=0
             },
             new()
             {
@@ -605,7 +612,8 @@ public partial class CloudGeographyClient
                 Symbol = "Fr",
                 NativeName = "franc guinéen",
                 NativeSymbol = "Fr",
-                PluralShortName = "Guinean francs"
+                PluralShortName = "Guinean francs",
+                Decimal=0
             },
             new()
             {
@@ -665,7 +673,7 @@ public partial class CloudGeographyClient
                 Symbol = "kr",
                 NativeName = "íslensk króna",
                 NativeSymbol = "kr",
-                PluralShortName = "Icelandic krónur"
+                PluralShortName = "Icelandic krónur",
             },
             new()
             {
@@ -685,7 +693,7 @@ public partial class CloudGeographyClient
                 Symbol = "Rp",
                 NativeName = "Rupiah",
                 NativeSymbol = "Rp",
-                PluralShortName = "Rupiah"
+                PluralShortName = "Rupiah",
             },
             new()
             {
@@ -705,7 +713,8 @@ public partial class CloudGeographyClient
                 Symbol = "ع.د",
                 NativeName = "دينار عراقي",
                 NativeSymbol = "ع.د",
-                PluralShortName = "Iraqi dinars"
+                PluralShortName = "Iraqi dinars",
+                Decimal=3
             },
             new()
             {
@@ -735,7 +744,8 @@ public partial class CloudGeographyClient
                 Symbol = "¥",
                 NativeName = "日本円",
                 NativeSymbol = "¥",
-                PluralShortName = "Japanese yen"
+                PluralShortName = "Japanese yen",
+                Decimal=0,
             },
             new()
             {
@@ -755,7 +765,8 @@ public partial class CloudGeographyClient
                 Symbol = "JD",
                 NativeName = "دينار أردني",
                 NativeSymbol = "د.ا",
-                PluralShortName = "Jordanian dinar"
+                PluralShortName = "Jordanian dinar",
+                Decimal=3,
             },
             new()
             {
@@ -785,7 +796,8 @@ public partial class CloudGeographyClient
                 Symbol = "KD",
                 NativeName = "دينار كويتي (Arabic)",
                 NativeSymbol = "د.ك",
-                PluralShortName = "Kuwaiti dinars"
+                PluralShortName = "Kuwaiti dinars",
+                Decimal=3,  
             },
             new()
             {
@@ -845,7 +857,8 @@ public partial class CloudGeographyClient
                 Symbol = "LD",
                 NativeName = "دينار ليبي",
                 NativeSymbol = "ل.د",
-                PluralShortName = "Libyan dinars"
+                PluralShortName = "Libyan dinars",
+                Decimal=3
             },
             new()
             {
@@ -875,7 +888,8 @@ public partial class CloudGeographyClient
                 Symbol = "Ar",
                 NativeName = "ariary malgache ",
                 NativeSymbol = "Ar",
-                PluralShortName = "Malagasy ariary"
+                PluralShortName = "Malagasy ariary",
+                Decimal=0
             },
             new()
             {
@@ -1085,7 +1099,8 @@ public partial class CloudGeographyClient
                 Symbol = "rial",
                 NativeName = "ريال عماني",
                 NativeSymbol = "ر.ع.",
-                PluralShortName = "Omani rials"
+                PluralShortName = "Omani rials",
+                Decimal=3
             },
             new()
             {
@@ -1125,7 +1140,8 @@ public partial class CloudGeographyClient
                 Symbol = "₲",
                 NativeName = "Guaraní paraguayo",
                 NativeSymbol = "₲",
-                PluralShortName = "Paraguayan guaraníes"
+                PluralShortName = "Paraguayan guaraníes",
+                Decimal=0
             },
             new()
             {
@@ -1195,7 +1211,8 @@ public partial class CloudGeographyClient
                 Symbol = "Fr",
                 NativeName = "Franc Rwandais",
                 NativeSymbol = "Fr",
-                PluralShortName = "Rwandan francs"
+                PluralShortName = "Rwandan francs",
+                Decimal=0
             },
             new()
             {
@@ -1315,7 +1332,8 @@ public partial class CloudGeographyClient
                 Symbol = "",
                 NativeName = "",
                 NativeSymbol = "₩",
-                PluralShortName = ""
+                PluralShortName = "",
+                Decimal=0
             },
             new()
             {
@@ -1455,7 +1473,8 @@ public partial class CloudGeographyClient
                 Symbol = "DT",
                 NativeName = "دينار تونسي",
                 NativeSymbol = "د.ت",
-                PluralShortName = "Tunisian dinars"
+                PluralShortName = "Tunisian dinars",
+                Decimal=3
             },
             new()
             {
@@ -1495,7 +1514,7 @@ public partial class CloudGeographyClient
                 Symbol = "Sh",
                 NativeName = "Shilingi ya Uganda",
                 NativeSymbol = "Sh",
-                PluralShortName = "Ugandan shilling"
+                PluralShortName = "Ugandan shilling",
             },
             new()
             {
@@ -1555,7 +1574,8 @@ public partial class CloudGeographyClient
                 Symbol = "Vt",
                 NativeName = "Vanuatu vatu",
                 NativeSymbol = "Vt",
-                PluralShortName = "Vanuatu vatu"
+                PluralShortName = "Vanuatu vatu",
+                Decimal=0
             },
             new()
             {
@@ -1575,7 +1595,8 @@ public partial class CloudGeographyClient
                 Symbol = "₫",
                 NativeName = "đồng Việt Nam ",
                 NativeSymbol = "₫",
-                PluralShortName = "Vietnamese đồng"
+                PluralShortName = "Vietnamese đồng",
+                Decimal=0
             },
             new()
             {
@@ -1585,7 +1606,8 @@ public partial class CloudGeographyClient
                 Symbol = "Fr",
                 NativeName = "West African CFA franc",
                 NativeSymbol = "Fr",
-                PluralShortName = "West African CFA francs"
+                PluralShortName = "West African CFA francs",
+                Decimal=0
             },
             new()
             {

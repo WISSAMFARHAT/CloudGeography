@@ -10,6 +10,7 @@ public class Currency
 	public string PluralShortName { get; set; }
 	public string ShortName { get; set; }
 	public string Symbol { get; set; }
+	public int Decimal { get; set; } = 2;
 
 	internal bool CodeCheck(string code)
 	{
