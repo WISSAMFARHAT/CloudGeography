@@ -71,12 +71,12 @@ namespace CloudGeography.Test
 		[TestMethod]
 		public void Subtraction_Negative()
 		{
-			Money moneyA = new("USD", -1.6m);
+			Money moneyA = new("USD", -1.2m);
 			Money moneyB = new("USD", -1.4m);
 
 			Money sum = moneyA.Subtract(moneyB);
 
-			Assert.AreEqual(-.2m, sum.Value);
+			Assert.AreEqual(.2m, sum.Value);
 		}
 
 		[TestMethod]
@@ -133,6 +133,6 @@ namespace CloudGeography.Test
 			Money money = new("USD", -50.3m);
 
 			Assert.AreEqual(-3, money.DecimalNumberAsInteger);
-		}
-	}
+        }
+    }
 }

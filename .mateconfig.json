@@ -1,7 +1,815 @@
 {
 	"files": [
 		{
+<<<<<<< HEAD
 			"input": ["docs/Header.md","Docs/Summary.md","Docs/Overview.md","Docs/Installation.md","Docs/Implementation.md","Docs/Usage.md"],
+=======
+			"input": "Data/countries.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/countries.json"
+		},
+		{
+			"input": "Data/languages.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/languages.json"
+		},
+		{
+			"input": "Data/currencies.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/currencies.json"
+		},
+		{
+			"input": "Data/currencies.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/currencies.json"
+		},
+		{
+			"input": "Data/subdivisions/af.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/af.json"
+		},
+		{
+			"input": "Data/subdivisions/ao.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ao.json"
+		},
+		{
+			"input": "Data/subdivisions/al.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/al.json"
+		},
+		{
+			"input": "Data/subdivisions/ad.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ad.json"
+		},
+		{
+			"input": "Data/subdivisions/ar.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ar.json"
+		},
+		{
+			"input": "Data/subdivisions/am.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/am.json"
+		},
+		{
+			"input": "Data/subdivisions/ag.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ag.json"
+		},
+		{
+			"input": "Data/subdivisions/au.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/au.json"
+		},
+		{
+			"input": "Data/subdivisions/at.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/at.json"
+		},
+		{
+			"input": "Data/subdivisions/az.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/az.json"
+		},
+		{
+			"input": "Data/subdivisions/bi.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bi.json"
+		},
+		{
+			"input": "Data/subdivisions/be.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/be.json"
+		},
+		{
+			"input": "Data/subdivisions/bj.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bj.json"
+		},
+		{
+			"input": "Data/subdivisions/bq.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bq.json"
+		},
+		{
+			"input": "Data/subdivisions/bf.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bf.json"
+		},
+		{
+			"input": "Data/subdivisions/bd.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bd.json"
+		},
+		{
+			"input": "Data/subdivisions/bg.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bg.json"
+		},
+		{
+			"input": "Data/subdivisions/bh.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bh.json"
+		},
+		{
+			"input": "Data/subdivisions/bs.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bs.json"
+		},
+		{
+			"input": "Data/subdivisions/ba.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ba.json"
+		},
+		{
+			"input": "Data/subdivisions/by.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/by.json"
+		},
+		{
+			"input": "Data/subdivisions/bz.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bz.json"
+		},
+		{
+			"input": "Data/subdivisions/bm.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bm.json"
+		},
+		{
+			"input": "Data/subdivisions/bo.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bo.json"
+		},
+		{
+			"input": "Data/subdivisions/br.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/br.json"
+		},
+		{
+			"input": "Data/subdivisions/bb.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bb.json"
+		},
+		{
+			"input": "Data/subdivisions/bn.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bn.json"
+		},
+		{
+			"input": "Data/subdivisions/bt.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bt.json"
+		},
+		{
+			"input": "Data/subdivisions/bw.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/bw.json"
+		},
+		{
+			"input": "Data/subdivisions/cf.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cf.json"
+		},
+		{
+			"input": "Data/subdivisions/ca.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ca.json"
+		},
+		{
+			"input": "Data/subdivisions/ch.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ch.json"
+		},
+		{
+			"input": "Data/subdivisions/cl.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cl.json"
+		},
+		{
+			"input": "Data/subdivisions/cn.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cn.json"
+		},
+		{
+			"input": "Data/subdivisions/ci.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ci.json"
+		},
+		{
+			"input": "Data/subdivisions/cm.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cm.json"
+		},
+		{
+			"input": "Data/subdivisions/cd.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cd.json"
+		},
+		{
+			"input": "Data/subdivisions/cg.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cg.json"
+		},
+		{
+			"input": "Data/subdivisions/co.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/co.json"
+		},
+		{
+			"input": "Data/subdivisions/km.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/km.json"
+		},
+		{
+			"input": "Data/subdivisions/cv.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cv.json"
+		},
+		{
+			"input": "Data/subdivisions/cr.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cr.json"
+		},
+		{
+			"input": "Data/subdivisions/cu.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cu.json"
+		},
+		{
+			"input": "Data/subdivisions/cy.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cy.json"
+		},
+		{
+			"input": "Data/subdivisions/cz.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/cz.json"
+		},
+		{
+			"input": "Data/subdivisions/de.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/de.json"
+		},
+		{
+			"input": "Data/subdivisions/dj.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/dj.json"
+		},
+		{
+			"input": "Data/subdivisions/dm.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/dm.json"
+		},
+		{
+			"input": "Data/subdivisions/dk.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/dk.json"
+		},
+		{
+			"input": "Data/subdivisions/do.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/do.json"
+		},
+		{
+			"input": "Data/subdivisions/dz.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/dz.json"
+		},
+		{
+			"input": "Data/subdivisions/ec.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ec.json"
+		},
+		{
+			"input": "Data/subdivisions/eg.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/eg.json"
+		},
+		{
+			"input": "Data/subdivisions/er.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/er.json"
+		},
+		{
+			"input": "Data/subdivisions/es.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/es.json"
+		},
+		{
+			"input": "Data/subdivisions/ee.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ee.json"
+		},
+		{
+			"input": "Data/subdivisions/et.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/et.json"
+		},
+		{
+			"input": "Data/subdivisions/fi.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/fi.json"
+		},
+		{
+			"input": "Data/subdivisions/fj.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/fj.json"
+		},
+		{
+			"input": "Data/subdivisions/fr.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/fr.json"
+		},
+		{
+			"input": "Data/subdivisions/fm.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/fm.json"
+		},
+		{
+			"input": "Data/subdivisions/ga.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ga.json"
+		},
+		{
+			"input": "Data/subdivisions/gb.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gb.json"
+		},
+		{
+			"input": "Data/subdivisions/ge.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ge.json"
+		},
+		{
+			"input": "Data/subdivisions/gh.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gh.json"
+		},
+		{
+			"input": "Data/subdivisions/gn.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gn.json"
+		},
+		{
+			"input": "Data/subdivisions/gm.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gm.json"
+		},
+		{
+			"input": "Data/subdivisions/gw.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gw.json"
+		},
+		{
+			"input": "Data/subdivisions/gq.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gq.json"
+		},
+		{
+			"input": "Data/subdivisions/gr.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gr.json"
+		},
+		{
+			"input": "Data/subdivisions/gd.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gd.json"
+		},
+		{
+			"input": "Data/subdivisions/gl.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gl.json"
+		},
+		{
+			"input": "Data/subdivisions/gt.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gt.json"
+		},
+		{
+			"input": "Data/subdivisions/gy.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/gy.json"
+		},
+		{
+			"input": "Data/subdivisions/hn.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/hn.json"
+		},
+		{
+			"input": "Data/subdivisions/hr.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/hr.json"
+		},
+		{
+			"input": "Data/subdivisions/ht.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ht.json"
+		},
+		{
+			"input": "Data/subdivisions/hu.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/hu.json"
+		},
+		{
+			"input": "Data/subdivisions/id.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/id.json"
+		},
+		{
+			"input": "Data/subdivisions/in.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/in.json"
+		},
+		{
+			"input": "Data/subdivisions/ie.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ie.json"
+		},
+		{
+			"input": "Data/subdivisions/ir.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ir.json"
+		},
+		{
+			"input": "Data/subdivisions/iq.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/iq.json"
+		},
+		{
+			"input": "Data/subdivisions/is.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/is.json"
+		},
+		{
+			"input": "Data/subdivisions/il.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/il.json"
+		},
+		{
+			"input": "Data/subdivisions/it.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/it.json"
+		},
+		{
+			"input": "Data/subdivisions/jm.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/jm.json"
+		},
+		{
+			"input": "Data/subdivisions/jo.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/jo.json"
+		},
+		{
+			"input": "Data/subdivisions/jp.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/jp.json"
+		},
+		{
+			"input": "Data/subdivisions/kz.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/kz.json"
+		},
+		{
+			"input": "Data/subdivisions/ke.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ke.json"
+		},
+		{
+			"input": "Data/subdivisions/kg.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/kg.json"
+		},
+		{
+			"input": "Data/subdivisions/kh.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/kh.json"
+		},
+		{
+			"input": "Data/subdivisions/ki.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ki.json"
+		},
+		{
+			"input": "Data/subdivisions/kn.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/kn.json"
+		},
+		{
+			"input": "Data/subdivisions/kr.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/kr.json"
+		},
+		{
+			"input": "Data/subdivisions/sa.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sa.json"
+		},
+		{
+			"input": "Data/subdivisions/kw.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/kw.json"
+		},
+		{
+			"input": "Data/subdivisions/la.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/la.json"
+		},
+		{
+			"input": "Data/subdivisions/lb.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/lb.json"
+		},
+		{
+			"input": "Data/subdivisions/lr.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/lr.json"
+		},
+		{
+			"input": "Data/subdivisions/ly.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ly.json"
+		},
+		{
+			"input": "Data/subdivisions/lc.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/lc.json"
+		},
+		{
+			"input": "Data/subdivisions/li.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/li.json"
+		},
+		{
+			"input": "Data/subdivisions/lk.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/lk.json"
+		},
+		{
+			"input": "Data/subdivisions/ls.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ls.json"
+		},
+		{
+			"input": "Data/subdivisions/lt.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/lt.json"
+		},
+		{
+			"input": "Data/subdivisions/lu.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/lu.json"
+		},
+		{
+			"input": "Data/subdivisions/lv.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/lv.json"
+		},
+		{
+			"input": "Data/subdivisions/ma.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ma.json"
+		},
+		{
+			"input": "Data/subdivisions/mc.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mc.json"
+		},
+		{
+			"input": "Data/subdivisions/md.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/md.json"
+		},
+		{
+			"input": "Data/subdivisions/mg.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mg.json"
+		},
+		{
+			"input": "Data/subdivisions/mv.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mv.json"
+		},
+		{
+			"input": "Data/subdivisions/mx.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mx.json"
+		},
+		{
+			"input": "Data/subdivisions/mh.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mh.json"
+		},
+		{
+			"input": "Data/subdivisions/mk.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mk.json"
+		},
+		{
+			"input": "Data/subdivisions/ml.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ml.json"
+		},
+		{
+			"input": "Data/subdivisions/mt.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mt.json"
+		},
+		{
+			"input": "Data/subdivisions/mm.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mm.json"
+		},
+		{
+			"input": "Data/subdivisions/me.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/me.json"
+		},
+		{
+			"input": "Data/subdivisions/mn.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mn.json"
+		},
+		{
+			"input": "Data/subdivisions/mz.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mz.json"
+		},
+		{
+			"input": "Data/subdivisions/mr.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mr.json"
+		},
+		{
+			"input": "Data/subdivisions/mu.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mu.json"
+		},
+		{
+			"input": "Data/subdivisions/mw.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/mw.json"
+		},
+		{
+			"input": "Data/subdivisions/my.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/my.json"
+		},
+		{
+			"input": "Data/subdivisions/na.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/na.json"
+		},
+		{
+			"input": "Data/subdivisions/ne.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ne.json"
+		},
+		{
+			"input": "Data/subdivisions/ng.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ng.json"
+		},
+		{
+			"input": "Data/subdivisions/ni.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ni.json"
+		},
+		{
+			"input": "Data/subdivisions/nl.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/nl.json"
+		},
+		{
+			"input": "Data/subdivisions/no.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/no.json"
+		},
+		{
+			"input": "Data/subdivisions/np.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/np.json"
+		},
+		{
+			"input": "Data/subdivisions/nr.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/nr.json"
+		},
+		{
+			"input": "Data/subdivisions/nz.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/nz.json"
+		},
+		{
+			"input": "Data/subdivisions/om.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/om.json"
+		},
+		{
+			"input": "Data/subdivisions/pk.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/pk.json"
+		},
+		{
+			"input": "Data/subdivisions/pa.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/pa.json"
+		},
+		{
+			"input": "Data/subdivisions/pe.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/pe.json"
+		},
+		{
+			"input": "Data/subdivisions/ph.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ph.json"
+		},
+		{
+			"input": "Data/subdivisions/pw.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/pw.json"
+		},
+		{
+			"input": "Data/subdivisions/pg.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/pg.json"
+		},
+		{
+			"input": "Data/subdivisions/pl.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/pl.json"
+		},
+		{
+			"input": "Data/subdivisions/kp.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/kp.json"
+		},
+		{
+			"input": "Data/subdivisions/pt.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/pt.json"
+		},
+		{
+			"input": "Data/subdivisions/py.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/py.json"
+		},
+		{
+			"input": "Data/subdivisions/ps.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ps.json"
+		},
+		{
+			"input": "Data/subdivisions/qa.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/qa.json"
+		},
+		{
+			"input": "Data/subdivisions/ro.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ro.json"
+		},
+		{
+			"input": "Data/subdivisions/ru.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ru.json"
+		},
+		{
+			"input": "Data/subdivisions/rw.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/rw.json"
+		},
+		{
+			"input": "Data/subdivisions/sd.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sd.json"
+		},
+		{
+			"input": "Data/subdivisions/sn.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sn.json"
+		},
+		{
+			"input": "Data/subdivisions/sg.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sg.json"
+		},
+		{
+			"input": "Data/subdivisions/sh.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sh.json"
+		},
+		{
+			"input": "Data/subdivisions/sb.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sb.json"
+		},
+		{
+			"input": "Data/subdivisions/sl.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sl.json"
+		},
+		{
+			"input": "Data/subdivisions/sv.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sv.json"
+		},
+		{
+			"input": "Data/subdivisions/sm.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sm.json"
+		},
+		{
+			"input": "Data/subdivisions/so.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/so.json"
+		},
+		{
+			"input": "Data/subdivisions/rs.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/rs.json"
+		},
+		{
+			"input": "Data/subdivisions/ss.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ss.json"
+		},
+		{
+			"input": "Data/subdivisions/st.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/st.json"
+		},
+		{
+			"input": "Data/subdivisions/sr.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sr.json"
+		},
+		{
+			"input": "Data/subdivisions/sk.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sk.json"
+		},
+		{
+			"input": "Data/subdivisions/si.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/si.json"
+		},
+		{
+			"input": "Data/subdivisions/se.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/se.json"
+		},
+		{
+			"input": "Data/subdivisions/sc.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sc.json"
+		},
+		{
+			"input": "Data/subdivisions/sy.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/sy.json"
+		},
+		{
+			"input": "Data/subdivisions/td.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/td.json"
+		},
+		{
+			"input": "Data/subdivisions/tg.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/tg.json"
+		},
+		{
+			"input": "Data/subdivisions/th.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/th.json"
+		},
+		{
+			"input": "Data/subdivisions/tj.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/tj.json"
+		},
+		{
+			"input": "Data/subdivisions/tm.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/tm.json"
+		},
+		{
+			"input": "Data/subdivisions/tl.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/tl.json"
+		},
+		{
+			"input": "Data/subdivisions/to.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/to.json"
+		},
+		{
+			"input": "Data/subdivisions/tt.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/tt.json"
+		},
+		{
+			"input": "Data/subdivisions/tn.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/tn.json"
+		},
+		{
+			"input": "Data/subdivisions/tr.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/tr.json"
+		},
+		{
+			"input": "Data/subdivisions/tv.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/tv.json"
+		},
+		{
+			"input": "Data/subdivisions/tw.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/tw.json"
+		},
+		{
+			"input": "Data/subdivisions/tz.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/tz.json"
+		},
+		{
+			"input": "Data/subdivisions/ae.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ae.json"
+		},
+		{
+			"input": "Data/subdivisions/ug.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ug.json"
+		},
+		{
+			"input": "Data/subdivisions/ua.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ua.json"
+		},
+		{
+			"input": "Data/subdivisions/uy.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/uy.json"
+		},
+		{
+			"input": "Data/subdivisions/us.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/us.json"
+		},
+		{
+			"input": "Data/subdivisions/uz.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/uz.json"
+		},
+		{
+			"input": "Data/subdivisions/vc.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/vc.json"
+		},
+		{
+			"input": "Data/subdivisions/ve.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ve.json"
+		},
+		{
+			"input": "Data/subdivisions/vn.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/vn.json"
+		},
+		{
+			"input": "Data/subdivisions/ws.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ws.json"
+		},
+		{
+			"input": "Data/subdivisions/ye.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/ye.json"
+		},
+		{
+			"input": "Data/subdivisions/za.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/za.json"
+		},
+		{
+			"input": "Data/subdivisions/zm.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/zm.json"
+		},
+		{
+			"input": "Data/subdivisions/zw.json",
+			"output": "CloudGeographyDotNet/CloudGeography/Data/subdivisions/zw.json"
+		},
+		{
+			"input": ["docs/Header.md","Docs/Overview.md","Docs/Installation.md","Docs/Implementation.md","Docs/Usage.md","Docs/Country.md","Docs/Currency.md","Docs/Language.md","Docs/Subdivision.md","Docs/TimeZone.md","Docs/Money.md","Docs/PhoneNumber.md"],
+>>>>>>> 085d41013da70972bd328bdd86adb7469b0c115a
 			"output": "README.md"
 		}
 	]

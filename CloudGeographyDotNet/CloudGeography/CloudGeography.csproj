@@ -8,7 +8,7 @@
 		<Title>Cloud Geography</Title>
 		<AssemblyVersion>$(PackageVersion)</AssemblyVersion>
 		<FileVersion>$(PackageVersion)</FileVersion>
-		<Version>2.2.0</Version>
+		<Version>2.4.1</Version>
 		<AssemblyName>AngryMonkey.Cloud.Geography</AssemblyName>
 		<Authors>Angry Monkey</Authors>
 		<Description>A .Net client to retrieve Countries, Languages, and Currencies information.</Description>

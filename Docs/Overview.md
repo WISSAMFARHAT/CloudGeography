@@ -7,17 +7,17 @@ A .Net client to retrieve Countries, Languages, and Currencies information.The .
 ```cs
  //gets all countries
  CloudGeographyClient client = new();
- List<Country> country = client.Countries.GetAll();
+ List<Country> country = client.Countries.Get();
 ```
 
 ```cs
 //gets all currencies
 CloudGeographyClient client = new();
-List<Currency> Currencies = client.Currencies.GetAll();
+List<Currency> Currencies = client.Currencies.Get();
 ```
 
 ```cs
 //gets all languages
 CloudGeographyClient client = new();
-List<Language> languages = client.Languages.GetAll();
+List<Language> languages = client.Languages.Get();
 ```

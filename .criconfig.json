@@ -14,8 +14,32 @@
         "Path": ["/Docs/Implementation.md"]
       },
       {
-        "Title": "Usage",
-        "Path": ["/Docs/Usage.md"]
+        "Title": "Country",
+        "Path": ["/Docs/Country.md"]
+      },
+      {
+        "Title": "Currency",
+        "Path": ["/Docs/Currency.md"]
+      },
+      {
+        "Title": "Language",
+        "Path": ["/Docs/Language.md"]
+      },
+      {
+        "Title": "Subdivision",
+        "Path": ["/Docs/Subdivision.md"]
+      },
+      {
+        "Title": "TimeZone",
+        "Path": ["/Docs/TimeZone.md"]
+      },
+      {
+        "Title": "Money",
+        "Path": ["/Docs/Money.md"]
+      },
+      {
+        "Title": "Phone Number",
+        "Path": ["/Docs/PhoneNumber.md"]
       }
      ]
 }

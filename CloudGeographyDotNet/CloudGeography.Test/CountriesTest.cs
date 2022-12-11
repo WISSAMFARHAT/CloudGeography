@@ -21,6 +21,7 @@ namespace CloudGeography.Test
             Assert.AreEqual("United States of America", country?.Name);
         }
 
+
         [TestMethod]
         public void Get_All_Countries()
         {

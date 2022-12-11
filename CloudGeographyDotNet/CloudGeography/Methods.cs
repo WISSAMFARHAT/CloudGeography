@@ -12,15 +12,19 @@ public partial class CloudGeographyClient
 	public CurrenciesMethods Currencies { get; set; }
 	public SubdivisionsMethods Subdivisions { get; set; }
 	public PhoneNumbersMethods PhoneNumbers { get; set; }
+    public TimeZonesMethods TimeZones { get; set; }
 
-	public CloudGeographyClient()
+
+    public CloudGeographyClient()
 	{
 		Countries = new CountriesMethods(this);
 		Languages = new LanguagesMethods(this);
 		Currencies = new CurrenciesMethods(this);
 		Subdivisions = new SubdivisionsMethods(this);
 		PhoneNumbers = new PhoneNumbersMethods(this);
-	}
+		TimeZones = new TimeZonesMethods(this);
+
+    }
 
 	internal static T? DeserializeModel<T>(string fileName, string directory = "")
 	{
